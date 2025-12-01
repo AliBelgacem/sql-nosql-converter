@@ -23,17 +23,17 @@ convert data formats, and save the results instantly.
 
 - Smart Parsing
 
-	Multiple INSERT statements
-	Strings with commas
-	Auto-detection of integers & floats
-	Multiple tables in the same input
+	- Multiple INSERT statements
+	- Strings with commas
+	- Auto-detection of integers & floats
+	- Multiple tables in the same input
 
 - Clean GUI
 
-	Tab-based interface (SQL to NoSQL and NoSQL to SQL)
-	Load SQL/JSON from files
-	Save results in .sql or .json
-	Scrolling text editors for easy review
+	- Tab-based interface (SQL to NoSQL and NoSQL to SQL)
+	- Load SQL/JSON from files
+	- Save results in .sql or .json
+	- Scrolling text editors for easy review
 
 
 🗂️ Project Structure
@@ -156,6 +156,7 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
 
 
 
