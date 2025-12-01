@@ -38,15 +38,17 @@ convert data formats, and save the results instantly.
 
 🗂️ Project Structure
 
+```
 sql-nosql-converter/
-|
-|-- main.py         # Main launcher (Tkinter root)
-|-- gui.py          # Graphical interface (tabs, widgets, loaders)
-|-- converter.py    # Conversion engine (logic)
-|
-|-- README.md
-|-- requirements.txt
-└-- screenshots/
+│
+├── main.py          # Main launcher (Tkinter root)
+├── gui.py           # Graphical interface (tabs, widgets, loaders)
+├── converter.py     # Conversion engine (logic)
+│
+├── README.md
+├── requirements.txt
+└── screenshots/
+```
 
 
 🛠️ Technologies Used
@@ -156,6 +158,7 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
 
 
 
