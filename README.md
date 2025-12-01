@@ -157,7 +157,9 @@ INSERT INTO product (id, designation, qty) values (1, 'sugar', 30);
 Ali Belgacem - Computer Engineer • Python Developer • AI Researcher
 
 📧 Email: alibelgacem1983@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/ali-belgacem-500106170
+
 🐱 GitHub: https://github.com/AliBelgacem
 
 
@@ -165,6 +167,7 @@ Ali Belgacem - Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
 
 
 
