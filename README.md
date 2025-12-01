@@ -1,4 +1,4 @@
-* SQL / NoSQL Converter (Python GUI)
+📘 SQL / NoSQL Converter (Python GUI)
 
 A simple and efficient SQL to NoSQL and NoSQL to SQL Python-based tool converter.
 This application provides a user-friendly Tkinter GUI to load SQL/JSON files, 
@@ -8,13 +8,13 @@ convert data formats, and save the results instantly.
 - Supports multi-table SQL inserts and nested JSON structures.
 
 
-* Screenshot
+🖼️ Screenshot
 
 screenshots/SQL_to_NoSQL_View.png
 screenshots/NoSQL_to_SQL_View.png
 
 
-* Features
+🚀 Features
 
 - Convert Between SQL & NoSQL
 
@@ -45,20 +45,20 @@ screenshots/NoSQL_to_SQL_View.png
 	Scrolling text editors for easy review
 
 
-* Project Structure
+🗂️ Project Structure
 
 sql-nosql-converter/
-│
-├── main.py         # Main launcher (Tkinter root)
-├── gui.py          # Graphical interface (tabs, widgets, loaders)
-├── converter.py    # Conversion engine (logic)
-│
-├── README.md
-├── requirements.txt
-└── screenshots/
+|
+|-- main.py         # Main launcher (Tkinter root)
+|-- gui.py          # Graphical interface (tabs, widgets, loaders)
+|-- converter.py    # Conversion engine (logic)
+|
+|-- README.md
+|-- requirements.txt
+└-- screenshots/
 
 
-* Technologies Used
+🛠️ Technologies Used
 
 - Python 3.8.10
 - Tkinter (built-in GUI library)
@@ -67,7 +67,7 @@ sql-nosql-converter/
 # No external dependencies required.
 
 
-* Installation & Usage
+📥 Installation & Usage
 
 - Clone the repository :
 	git clone https://github.com/AliBelgacem/sql-nosql-converter.git
@@ -76,7 +76,7 @@ sql-nosql-converter/
 	python main.py
 
 
-* Usage Guide
+📌 Usage Guide
 
 - SQL to NoSQL
 	Paste SQL INSERT INTO ... statements
@@ -93,7 +93,7 @@ sql-nosql-converter/
 	Save sql output to .sql file
 
 
-* Example
+🧩 Example
 
 - SQL Input
 
@@ -128,7 +128,7 @@ INSERT INTO product (id, designation, qty) values (1, 'sugar', 30);
 }
 
 
-* How It Works
+🧠 How It Works
 
 - SQL to NoSQL
 
@@ -144,14 +144,14 @@ INSERT INTO product (id, designation, qty) values (1, 'sugar', 30);
 	Types are normalized for SQL
 
 
-* Future Improvements 
+📌 Future Improvements 
 
 - Add CSV import/export
 - Add MongoDB export
 - Add SQL SELECT parsing
 
 
-* Author
+👤 Author
 
 Ali Belgacem
 Computer Engineer • Python Developer • AI Researcher
@@ -162,5 +162,6 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 ⭐ Support the Project
+
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
