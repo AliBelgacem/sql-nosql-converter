@@ -10,8 +10,8 @@ convert data formats, and save the results instantly.
 
 🖼️ Screenshot
 
-screenshots/SQL_to_NoSQL_View.png
-screenshots/NoSQL_to_SQL_View.png
+	screenshots/SQL_to_NoSQL_View.png
+	screenshots/NoSQL_to_SQL_View.png
 
 
 🚀 Features
@@ -165,3 +165,4 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
