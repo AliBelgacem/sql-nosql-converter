@@ -57,45 +57,52 @@ sql-nosql-converter/
 - Tkinter (built-in GUI library)
 - JSON handling
 - Regular expressions (regex)
-# No external dependencies required.
+No external dependencies required.
 
 
 📥 Installation & Usage
 
 - Clone the repository :
-	git clone https://github.com/AliBelgacem/sql-nosql-converter.git
+  	```
+   	git clone https://github.com/AliBelgacem/sql-nosql-converter.git
 	cd sql-nosql-converter
+   	```
 - Run the application
+  	```
 	python main.py
+   	```
 
 
 📌 Usage Guide
 
 - SQL to NoSQL
-	Paste SQL INSERT INTO ... statements
-	Or load .sql file
-	Click Convert to NoSQL
-	Copy JSON output from the output text area
-	Or Save JSON output to .JSON file
+	- Paste SQL INSERT INTO ... statements
+	- Or load .sql file
+	- Click Convert to NoSQL
+	- Copy JSON output from the output text area
+	- Or Save JSON output to .JSON file
 
 - NoSQL to SQL
-	Paste JSON formatted tables
-	Or load .json file
-	Click Convert to SQL
-	Copy sql output from the output text area
-	Save sql output to .sql file
+	- Paste JSON formatted tables
+	- Or load .json file
+	- Click Convert to SQL
+	- Copy sql output from the output text area
+	- Save sql output to .sql file
 
 
 🧩 Example
 
 - SQL Input
 
+```
 INSERT INTO insert into client (id, name, address, age) values (1, 'ali', 'saida', 42.5);
 INSERT INTO client (id, name, address, age) values (2, 'moh', 'saida', 43);
 INSERT INTO product (id, designation, qty) values (1, 'sugar', 30);
+```
 
 - JSON Output
 
+```
 {
     "client": [
         {
@@ -119,35 +126,35 @@ INSERT INTO product (id, designation, qty) values (1, 'sugar', 30);
         }
     ]
 }
+```
 
 
 🧠 How It Works
 
 - SQL to NoSQL
 
-	Regex detects table, columns, and values
-	Values are split safely even inside quotes
-	Types are converted automatically
-	Data is grouped by tables
+	- Regex detects table, columns, and values
+	- Values are split safely even inside quotes
+	- Types are converted automatically
+	- Data is grouped by tables
 
 - NoSQL to SQL
 
-	JSON parsed to Python dictionary
-	Each row converted to an SQL INSERT statement
-	Types are normalized for SQL
+	- JSON parsed to Python dictionary
+	- Each row converted to an SQL INSERT statement
+	- Types are normalized for SQL
 
 
 📌 Future Improvements 
 
-- Add CSV import/export
-- Add MongoDB export
-- Add SQL SELECT parsing
+	- Add CSV import/export
+	- Add MongoDB export
+	- Add SQL SELECT parsing
 
 
 👤 Author
 
-Ali Belgacem
-Computer Engineer • Python Developer • AI Researcher
+Ali Belgacem - Computer Engineer • Python Developer • AI Researcher
 
 📧 Email: alibelgacem1983@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ali-belgacem-500106170
@@ -158,6 +165,7 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
 
 
 
