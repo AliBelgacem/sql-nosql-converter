@@ -18,8 +18,8 @@ convert data formats, and save the results instantly.
 
 - Convert Between SQL & NoSQL
 
-	SQL INSERT statements to JSON (NoSQL)
-	JSON (NoSQL) to SQL INSERT statements
+	- SQL INSERT statements to JSON (NoSQL)
+	- JSON (NoSQL) to SQL INSERT statements
 
 - Smart Parsing
 
@@ -156,5 +156,6 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
 
 
