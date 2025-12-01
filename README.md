@@ -19,29 +19,20 @@ convert data formats, and save the results instantly.
 - Convert Between SQL & NoSQL
 
 	SQL INSERT statements to JSON (NoSQL)
-
 	JSON (NoSQL) to SQL INSERT statements
 
 - Smart Parsing
 
 	Multiple INSERT statements
-
 	Strings with commas
-
-	NULL values
-
 	Auto-detection of integers & floats
-
 	Multiple tables in the same input
 
 - Clean GUI
 
 	Tab-based interface (SQL to NoSQL and NoSQL to SQL)
-
 	Load SQL/JSON from files
-
 	Save results in .sql or .json
-
 	Scrolling text editors for easy review
 
 
@@ -165,4 +156,5 @@ Computer Engineer • Python Developer • AI Researcher
 
 
 If this project helped you, please consider giving it a ⭐ on GitHub — it really helps!
+
 
